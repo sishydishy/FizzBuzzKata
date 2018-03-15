@@ -1,0 +1,15 @@
+/Users/saish.dharvotkar/src/Katas/FizzBuzz.Kata/FizzBuzz.Test/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/saish.dharvotkar/src/Katas/FizzBuzz.Kata/FizzBuzz.Test/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/saish.dharvotkar/src/Katas/FizzBuzz.Kata/FizzBuzz.Test/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/saish.dharvotkar/src/Katas/FizzBuzz.Kata/FizzBuzz.Test/bin/Debug/netcoreapp2.0/FizzBuzz.Test.deps.json
+/Users/saish.dharvotkar/src/Katas/FizzBuzz.Kata/FizzBuzz.Test/bin/Debug/netcoreapp2.0/FizzBuzz.Test.runtimeconfig.json
+/Users/saish.dharvotkar/src/Katas/FizzBuzz.Kata/FizzBuzz.Test/bin/Debug/netcoreapp2.0/FizzBuzz.Test.runtimeconfig.dev.json
+/Users/saish.dharvotkar/src/Katas/FizzBuzz.Kata/FizzBuzz.Test/bin/Debug/netcoreapp2.0/FizzBuzz.Test.dll
+/Users/saish.dharvotkar/src/Katas/FizzBuzz.Kata/FizzBuzz.Test/bin/Debug/netcoreapp2.0/FizzBuzz.Test.pdb
+/Users/saish.dharvotkar/src/Katas/FizzBuzz.Kata/FizzBuzz.Test/obj/Debug/netcoreapp2.0/FizzBuzz.Test.csproj.CoreCompileInputs.cache
+/Users/saish.dharvotkar/src/Katas/FizzBuzz.Kata/FizzBuzz.Test/obj/Debug/netcoreapp2.0/FizzBuzz.Test.AssemblyInfoInputs.cache
+/Users/saish.dharvotkar/src/Katas/FizzBuzz.Kata/FizzBuzz.Test/obj/Debug/netcoreapp2.0/FizzBuzz.Test.AssemblyInfo.cs
+/Users/saish.dharvotkar/src/Katas/FizzBuzz.Kata/FizzBuzz.Test/obj/Debug/netcoreapp2.0/FizzBuzz.Test.dll
+/Users/saish.dharvotkar/src/Katas/FizzBuzz.Kata/FizzBuzz.Test/obj/Debug/netcoreapp2.0/FizzBuzz.Test.pdb
+/Users/saish.dharvotkar/src/Katas/FizzBuzz.Kata/FizzBuzz.Test/bin/Debug/netcoreapp2.0/FizzBuzz.Kata.dll
+/Users/saish.dharvotkar/src/Katas/FizzBuzz.Kata/FizzBuzz.Test/bin/Debug/netcoreapp2.0/FizzBuzz.Kata.pdb

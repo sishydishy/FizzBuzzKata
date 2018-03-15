@@ -1,0 +1,59 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/saish.dharvotkar/src/Katas/FizzBuzz.Kata/FizzBuzz.Test/FizzBuzz.Test.csproj",
+    "projectName": "FizzBuzz.Test",
+    "projectPath": "/Users/saish.dharvotkar/src/Katas/FizzBuzz.Kata/FizzBuzz.Test/FizzBuzz.Test.csproj",
+    "outputPath": "/Users/saish.dharvotkar/src/Katas/FizzBuzz.Kata/FizzBuzz.Test/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/Users/saish.dharvotkar/src/Katas/FizzBuzz.Kata/FizzBuzz.Kata/FizzBuzz.Kata.csproj": {
+            "projectPath": "/Users/saish.dharvotkar/src/Katas/FizzBuzz.Kata/FizzBuzz.Kata/FizzBuzz.Kata.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[15.5.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "xunit": {
+          "target": "Package",
+          "version": "[2.3.1, )"
+        },
+        "xunit.runner.visualstudio": {
+          "target": "Package",
+          "version": "[2.3.1, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
